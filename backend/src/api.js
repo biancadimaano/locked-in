@@ -20,4 +20,3 @@ axios.get(url)
     .catch(error => {
         console.log("Error fetching data:", error);
     });
-git``
