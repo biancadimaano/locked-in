@@ -7,9 +7,18 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "backend",
   "dependencies": {
     "express": "^4.21.2",
-    "firebase": "^11.2.0"
-  }
+    "firebase": "^11.2.0",
+    "firebase-admin": "^13.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biancadimaano/locked-in.git"
+  },
+  "bugs": {
+    "url": "https://github.com/biancadimaano/locked-in/issues"
+  },
+  "homepage": "https://github.com/biancadimaano/locked-in#readme"
 }
